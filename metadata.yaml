@@ -1,5 +1,5 @@
 _repo: The-House-of-the-Secret-La-maison-des-hommes-vivants_65709
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: La maison des hommes vivants. English
 contributor:
   translator:
@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '34005'
     url: http://www.gutenberg.org/2009/agents/34005
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Livingston
+covers:
+- cover_type: archival
+  image_path: 65709-h/images/cover.jpg
 creator:
   author:
     agent_name: Farrère, Claude
@@ -29,6 +32,8 @@ creator:
     - https://en.wikipedia.org/wiki/Claude_Farrère
     - https://fr.wikipedia.org/wiki/Claude_Farr%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65709#The-House-of-the-Secret-La-maison-des-hommes-vivants
 gutenberg_issued: '2021-06-27'
 gutenberg_type: Text
 identifiers:
